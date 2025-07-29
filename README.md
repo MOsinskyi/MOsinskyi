@@ -1,26 +1,22 @@
 # Hi there, I'm Maksym! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Unity+Game+Development;Home+Automation+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maksym!+%F0%9F%91%8B;Student+%7C+Developer+%7C+Fighter;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-```cpp
-class Developer {
-public:
-    std::string name = "Maksym Osinskyi";
-    std::string location = "Lviv, Ukraine 🇺🇦";
-    std::vector<std::string> interests = {
-        "Qt Framework", "Python Development", 
-        "GUI Applications", "Home Automation"
-    };
-    
-    void currentFocus() {
-        std::cout << "Building beautiful applications" << std::endl;
-        std::cout << "Contributing to open source" << std::endl;
-    }
-};
+```python
+class MOsinskyi:
+    def __init__(self):
+        self.role = "Student & Aspiring Professional Developer"
+        self.languages = ["Python", "C++", "C#"]
+        self.frameworks = ["Qt", "Unity"]
+        self.current_focus = "Building professional-grade applications"
+        self.hobbies = ["Martial Arts 🥋", "Gym & Fitness 💪"]
+        
+    def get_philosophy(self):
+        return "Code with discipline, train with purpose"
 ```
 
 ## 🛠️ Tech Stack
@@ -28,9 +24,10 @@ public:
 <div align="center">
 
 ### Languages & Frameworks
-![C#](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Tools & Technologies
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -40,33 +37,37 @@ public:
 
 </div>
 
+## 🎯 Featured Projects
+
+### 🏠 [yasno-homeassistant-integration](https://github.com/MOsinskyi/yasno-homeassistant-integration)
+Smart home automation integration for seamless IoT control
+
+### ⚡ [QtDeyeEconomy](https://github.com/MOsinskyi/QtDeyeEconomy)
+Qt-based economic analysis tool with modern UI/UX
+
+### 📱 [qt-client-app](https://github.com/MOsinskyi/qt-client-app)
+Cross-platform client application built with Qt framework
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOsinskyi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsinskyi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MOsinskyi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsinskyi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🎯 Featured Projects
+## 🥋 Beyond Code
 
-### 📡 [Qt Client App](https://github.com/MOsinskyi/qt-client-app)
-> A Qt-based TCP client application demonstrating GUI development and network communication
-- 🔧 **Tech**: C++, Qt Framework
-- ⭐ **Features**: TCP client implementation, Modern Qt GUI
-- 🎨 **Focus**: Network programming with Qt
+When I'm not coding, you'll find me:
+- **Martial Arts** - Discipline in combat, discipline in code
+- **Gym Training** - Building physical and mental strength
+- **Continuous Learning** - Always expanding my technical horizons
 
-### 🏠 [Yasno Home Assistant Integration](https://github.com/MOsinskyi/yasno-homeassistant-integration)
-> Ukrainian electricity price integration for Home Assistant
-- 🔧 **Tech**: Python, Home Assistant
-- ⚡ **Features**: Real-time electricity pricing from yasno.ua
-- 🇺🇦 **Impact**: Helping Ukrainian users optimize energy consumption
+## 🎯 Current Goals
 
-## 🌟 What I'm Working On
-
-- 🔥 Building robust Qt applications with modern C++
-- 🏠 Contributing to Home Assistant ecosystem
-- 📚 Learning advanced Qt features and best practices
-- 🌐 Exploring cross-platform development techniques
+- 🔥 Mastering advanced software architecture patterns
+- 🚀 Contributing to open-source projects
+- 💼 Building a professional portfolio
+- 🌟 Transitioning from student to industry professional
 
 ## 📈 Activity Graph
 
