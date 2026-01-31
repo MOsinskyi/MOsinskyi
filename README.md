@@ -50,10 +50,8 @@ Cross-platform client application built with Qt framework
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOsinskyi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOsinskyi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOsinskyi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🥋 Beyond Code
 
