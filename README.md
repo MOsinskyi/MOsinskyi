@@ -48,10 +48,6 @@ Qt-based economic analysis tool with modern UI/UX
 ### 📱 [qt-client-app](https://github.com/MOsinskyi/qt-client-app)
 Cross-platform client application built with Qt framework
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MOsinskyi)](https://git.io/streak-stats)
-
 ## 🥋 Beyond Code
 
 When I'm not coding, you'll find me:
