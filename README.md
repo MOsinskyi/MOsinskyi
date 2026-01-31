@@ -52,7 +52,7 @@ Cross-platform client application built with Qt framework
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOsinskyi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsinskyi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOsinskyi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 ## 🥋 Beyond Code
