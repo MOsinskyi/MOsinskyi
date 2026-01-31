@@ -50,8 +50,7 @@ Cross-platform client application built with Qt framework
 
 ## 📊 GitHub Stats
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOsinskyi)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MOsinskyi)](https://git.io/streak-stats)
 
 ## 🥋 Beyond Code
 
