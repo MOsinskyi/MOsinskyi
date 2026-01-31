@@ -50,7 +50,7 @@ Cross-platform client application built with Qt framework
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MOsinskyi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MOsinskyi)](https://git.io/streak-stats)
 
 ## 🥋 Beyond Code
 
